@@ -1,5 +1,5 @@
 Differential Drive Robot Simulation in Gazebo.
 Simulation has
-  Lidar
-  Depth Camera
+  Lidar,
+  Depth Camera,
   Camera
